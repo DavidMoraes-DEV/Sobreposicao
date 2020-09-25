@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sobreposicao_PalavraVirtual_Override_Base/1.0.0": {
+        "runtime": {
+          "Sobreposicao_PalavraVirtual_Override_Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sobreposicao_PalavraVirtual_Override_Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
